@@ -1,4 +1,4 @@
 assemblytutorials
 =================
 
-This project was put together to teach myself NASM assembly language on linux.
+My notes on assembly
